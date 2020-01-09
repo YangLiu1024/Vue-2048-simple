@@ -15,4 +15,14 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Development
+
+```bash
+#install vue-cli
+npm install -g @vue/cli @vue/cli-init
+
+#create vue project
+vue init webpack-simple vue-2048-simple
+```
+
+
